@@ -1,5 +1,23 @@
 h2 {
     margin-top: .5em;
     padding-top: 0.2em;
+    font-family: 'Bree Serif', serif;
 }
 
+body { 
+    padding-top: 70px; 
+    background-image: url('/static/giant-crystal.png');
+    font-family: 'Bree Serif', serif;
+}
+
+
+
+.btn-success.raised {
+    background-color: #E62EB8;
+    box-shadow: 0 3px 0 0 #991F7A;
+}
+
+
+.btn-primary.raised {
+    box-shadow: 0 3px 0 0 #007299;
+}
